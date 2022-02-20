@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMIntegration</string>
+    <string name="facebook_app_id">3079935812255037</string>
+    <string name="fb_login_protocol_scheme">fb3079935812255037</string>
+    <string name="facebook_client_token">EAArxL3AFPT0BAFvTrtWtqjQf0w3DBC9pwKzMgx0MdMkcVa2ClWa2imyiqF5MvQuN7zzyhRgi2vFh2eBZClatQulSdTcWXU3ZClNUn1KdkMPGH07ga5iMreEvPRrVPxi8xehneGVVZBeaUj8S0wHmthy14YW4GZAI6dMVqrrI5Jifq5Xwnl95gxQvZC1jc73SA566M9qv9oVPZC4hZAlvAV7zG2ZC5SxT7U7xUTELRhnRANzvGDeRHQAc</string>
+</resources>
